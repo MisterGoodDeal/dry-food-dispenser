@@ -17,6 +17,6 @@ Here's every printer settings used to print all parts:
 - Arduino box + lid: 1h30 minutes
 - Nema motor wall support: 40 minutes
 
-## Estimated PLA consumpstion: 
+## Estimated PLA consumption: 
 
 This project uses about 1/6 filament spool (more or less)
