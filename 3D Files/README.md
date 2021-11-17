@@ -1,5 +1,5 @@
 # Printer settings
-Here's every printed settings used to print all parts:
+Here's every printer settings used to print all parts:
 
 - Tool temp: 200°C
 - Bed temp: 50°C
