@@ -27,7 +27,7 @@ aREST rest = aREST();
 // Pin used
 const int stepPin = A0;
 const int dirPin = A1;
-const int button = 5;
+const int button = 8;
 
 // Variables to be exposed to the API
 int amountToDispense = 0;
